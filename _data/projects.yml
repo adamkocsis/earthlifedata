@@ -16,20 +16,10 @@
   citation:
   - ""
 
-- id: bridge 
-  abbreviation: BRIDGE 
-  description_short: 
-  long: 
-  logo: images/logos/bridge.svg
-  website: https://www.paleo.bristol.ac.uk/resources/simulations/
-  category: climate-model
-  citation:
-  - ""
-
 - id: eODP 
   abbreviation: eODP 
   description_short: 
-  long: The Extending Ocean Drilling Pursuits 
+  long: Extending Ocean Drilling Pursuits 
   logo: images/logos/eODP.png
   website: https://eodp.github.io/
   state: sunrise

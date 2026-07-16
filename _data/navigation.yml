@@ -3,25 +3,21 @@
   dropdown: 
     - name: Background 
       link: /about/background/
-    - name: Goals 
-      link: /about/goals/
     - name: The Consortium
       link: /about/consortium/
-- name: Resource Hub 
+- name: Catalogue 
+  link: /catalogue/
+- name: Other resources
   link: /#
   dropdown: 
-    - name: Principles 
-      link: /hub/principles/
-    - name: Datasets and Databases
-      link: /hub/dataresources/
+    # - name: Principles 
+    #   link: /hub/principles/
     - name: Data Projects and Working Groups
-      link: /hub/projects/
-    - name: Papers and studies 
-      link: /hub/studies/
-    - name: Standards and Aggregators
-      link: /hub/standards/
-    - name: Data repositories and Portals
-      link: /hub/repos/
+      link: /workinggroups/
+    # - name: Papers and studies 
+    #   link: /hub/studies/
+    # - name: Standards and Aggregators
+    #   link: /hub/standards/
 - name: Projects 
   link: /#
   dropdown: 
@@ -33,12 +29,8 @@
       link: /projects/whitepaper/
     - name: User Requirements 
       link: /projects/requirements/
-    - name: EDEN 
-      link: /projects/eden/
 - name: Contribute 
   link: /#
   dropdown: 
     - name: Resource survey 
       link: /contribute/resource/
-- name: Blog
-  link: /blog/

@@ -1,24 +1,17 @@
-- id: zenodo 
-  abbreviation: Zenodo
-  long: Zenodo
-  website: https://zenodo.org/
-  logo: images/logos/zenodo.svg
-  description: "General scientific data repository"
-  category: scientific-repository 
 
 - id: figshare 
   abbreviation: figshare
   long: figshare
-  website: https://figshare.com/
-  logo: images/logos/figshare.png
+  website: 
+  logo: 
   description: "General scientific data repository"
   category: scientific-repository 
 
 - id: dryad
   abbreviation: dryad
   long: DRYAD
-  website: https://datadryad.org/
-  logo: images/logos/dryad.png
+  website: 
+  logo: 
   description: "General scientific data repository"
   category: scientific-repository 
 
@@ -33,29 +26,29 @@
 - id: sketchfab
   abbreviation: sketchfab
   long: Sketchfab
-  website: https://sketchfab.com/
-  logo: images/logos/pangaea-logo.png
-  description: "Repository for 3D Models and Data"
+  website: 
+  logo: 
+  description: ""
   category: open-repository 
 
 - id: cdo
   short: CDO
   long: CLimate Data Online 
-  website: https://www.ncei.noaa.gov/cdo-web/
+  website: 
   category: climate-model
 
 - id: EarthByte
   short: earthbyte
   long: EarthByte 
-  logo: images/logos/earthbyte.png
+  logo: 
   website: https://www.earthbyte.org/
   category: climate-model
 
 - id: ESGF
   short: esgf 
-  long: Earth System Grid Federation 
-  logo: images/logos/earthbyte.png
-  website: https://esgf.github.io/
+  long:  
+  logo: 
+  website: 
   category: climate-model
 
 
@@ -63,4 +56,4 @@
   short:  NASA EarthData
   long: NASA EarthData 
   logo: images/logos/earthbyte.png
-  website: https://www.earthdata.nasa.gov/
+  website: 

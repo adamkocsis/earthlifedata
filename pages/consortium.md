@@ -1,9 +1,10 @@
 ---
 layout: page
 title: The Consortium
-subtitle: About the strucutre and responsibilities consortium
+subtitle: The strucutre and responsibilities of the consortium
 permalink: /about/consortium/
 show_sidebar: false
+hero_image: "../../images/heros/pexels-photo-13010774.jpeg"
 ---
 
 # What is the DELS? 

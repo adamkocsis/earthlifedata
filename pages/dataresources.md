@@ -1,8 +1,9 @@
 ---
-title: Data resources 
+title: Earth-Life Data Catalogue 
 layout: page
 show_sidebar: false
-permalink: /hub/dataresources/
+permalink: /catalogue/
+hero_image: "../images/heros/pexels-eddievaldes155-17570437.jpg"
 ---
 
 <!-- Read in dependencies for the table -->
@@ -11,9 +12,10 @@ permalink: /hub/dataresources/
 <link rel="stylesheet" type="text/css" href="{{site.url}}{{site.baseurl}}/assets/css/jquery.dataTables.min.css" />
 
 <div class="box">
-  <h2 id="tutorials">Data Resources</h2>
+  <h2 id="tutorials">Data Catalogue</h2>
   <p>
-  This page tabulates resources that focus on one or a very few, specifically defined data entities. 
+  This page tabulates data resources, including data portals, community databases and single datasets. Many of the entires were tabulated automatically we are working on cleaning this compilations and on making this a queriable relational database with extended metadata.
+  Please use the survey if you would like to let us know of any projects that we have not been aware of.
   </p>
   <hr>
   <!-- Filter out the relevant tutorials-->
@@ -25,9 +27,13 @@ permalink: /hub/dataresources/
 	<tbody>
 		{% for res in site.data.resources %}
 			<tr height=150> 
-			<td style="vertical-align: middle; " width=150> <img src="{{site.url}}{{site.baseurl}}/{{res.logo}}"></td>
-			<td style="vertical-align: middle;"> <a href="{{res.website}}"><p><span style="font-weight:1000; font-size:1.5rem">{{res.short}}</span></p><p style="color:gray"><small><i>{{res.long}}</i></small></p></a></td>
-			<td style="vertical-align: middle;"> {{res.description_short}}</td>
+			{% if res.logo %}
+			<td style="vertical-align: middle; " width=150> <img src="{{site.url}}{{site.baseurl}}/images/logos/{{res.logo}}"></td>
+			{% else %}
+			<td style="vertical-align: middle; " width=150> <img src="{{site.url}}{{site.baseurl}}/images/logos/generic.svg"></td>
+			{% endif %}
+			<td style="vertical-align: middle;"> <a href="{{res.link}}"><p><span style="font-weight:1000; font-size:1.5rem">{{res.short}}</span></p><p style="color:gray"><small><i>{{res.long}}</i></small></p></a></td>
+			<td style="vertical-align: middle;"> {{res.description}}</td>
 			<td> {{res.category}}</td>
 			</tr>
 		{% endfor %}

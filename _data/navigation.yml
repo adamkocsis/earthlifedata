@@ -3,8 +3,8 @@
   dropdown: 
     - name: Background 
       link: /about/background/
-    - name: The Consortium
-      link: /about/consortium/
+    - name: The Alliance 
+      link: /about/alliance/
 - name: Catalogue 
   link: /catalogue/
 - name: Other resources
@@ -19,16 +19,7 @@
     # - name: Standards and Aggregators
     #   link: /hub/standards/
 - name: Projects 
-  link: /#
-  dropdown: 
-    - name: Resources 
-      link: /projects/resources/
-    - name: Failed Projects 
-      link: /projects/failed/
-    - name: Research White Paper 
-      link: /projects/whitepaper/
-    - name: User Requirements 
-      link: /projects/requirements/
+  link: /projects/
 - name: Contribute 
   link: /#
   dropdown: 

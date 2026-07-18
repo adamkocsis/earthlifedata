@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
-title: Earth-Life Data Consortium 
-tagline: Bulma Clean Theme
+title: Earth-Life Digital Alliance 
+tagline: Community for developing an interconnected data infrastructure
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/earthlifedata"
-url: "https://adamkocsis.github.io"
+  Towards the next generation of data service for understanding the coevolution Earth and Life
+baseurl: "/earthlife"
+url: "https://earthlifedigital.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
@@ -85,11 +85,11 @@ collections:
     image: https://picsum.photos/id/16/800/600
     show_sidebar: false
 
-social:
-  facebook: https://www.facebook.com/
-  instagram: https://www.instagram.com/
-  threads: https://www.threads.net/
-  tiktok: https://www.tiktok.com/
-  x: https://www.x.com/
-  youtube: https://www.youtube.com/
+# social:
+#   facebook: https://www.facebook.com/
+#   instagram: https://www.instagram.com/
+#   threads: https://www.threads.net/
+#   tiktok: https://www.tiktok.com/
+#   x: https://www.x.com/
+#   youtube: https://www.youtube.com/
   

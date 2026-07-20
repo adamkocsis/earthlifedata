@@ -1,3 +1,11 @@
+- id: pdwg
+  abbreviation: PDWG 
+  long: Paleo Data Working Group
+  website: https://paleo-data.github.io/
+  descriptions: "Resources for specimen-level data"
+  links:
+  - "https://biss.pensoft.net/article/74370"
+
 - id: biodeeptime
   abbreviation: BioDeepTime 
   description_short: 
@@ -32,10 +40,22 @@
   website: https://palaeoverse.org/our-packages/
   descriptions: "Resources for specimen-level data"
 
-- id: pdwg
-  abbreviation: PDWG 
-  long: Paleo Data Working Group
-  website: https://paleo-data.github.io/
-  descriptions: "Resources for specimen-level data"
-  links:
-  - "https://biss.pensoft.net/article/74370"
+- id: ethical
+  abbreviation: EOSfPGCD 
+  long: Ethical Open Science for Past Global Chance Data
+  website: https://eos-rcn.github.io/web/home
+  descriptions: 
+
+- id: fair
+  abbreviation:  PPFD
+  long: Paleo Publications & FAIR Data
+  website: https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2435458&HistoricalAwards=false
+  descriptions: 
+
+
+- id: fair
+  abbreviation: TIMES 
+  long: Time-Integrated Matrix for Earth Sciences (TIMES)
+  website: https://carnegiescience.edu/news/time-integrated-matrix-earth-sciences-times-kicks-workshop-carnegies-epl
+  descriptions: 
+

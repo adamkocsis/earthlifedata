@@ -1,34 +1,18 @@
 ---
 layout: page
 title: The Alliance
-subtitle: The structure and responsibilities of the alliance
 permalink: /about/alliance/
 show_sidebar: false
 hero_image: "../../images/heros/pexels-photo-13010774.jpeg"
 ---
 
-# What is the DELS? 
-
-The studies, that are  
-- An umbrella for research groups. 
 
 
-# Why is this model necessary
+## Why is this model necessary
 
-Scientific community that focuses on Earth-Life coevolution is incredibly fragmented, and for multiple reasons.
+The research community that focuses on Earth-Life coevolution is incredibly fragmented for multiple reasons. Some of the causes for this fragmentation are rooted in our disciplinary history, some of the attrition of resources are more result of the way how academic research is rewarded. The goal of the ELDA community is to transcend the well-established publish-cite-recognize reward system that permeates the academic community, which is one othe main reasons for the fragemntation of the community, initiatives and resources. 
 
-The goal of DELS is to transcend the well-established publish-cite-recognize reward system the permeates the academic community, which is one othe main reasons for the fragemntation of the community, initiatives and resources. 
-
-In the face of fragmentation, and scarcity of resources we decided unite as a single body to  
-
-
-
-The community's need for a globally integrated data system an only be fulfilled if the 
-
-# Joint achievements
-
-# Structure 
-
+Compared to their immediate societal value and use, the most types of data that we need are very expensive. The financial costs of satisfying community's need for a globally integrated data system can only be fulfilled if we stand united as one when communicating our interests to the larger scienfic community. The purpose of the ELDA is to gather this critical mass. Since academics are primarily interested in writing scientific studies, the shortest way to build our community is to publish together, as one. 
 
 ## Coordination
 
@@ -69,10 +53,4 @@ The community's need for a globally integrated data system an only be fulfilled 
 
 ## The future organization
 
-As senior academics are universally overcommited and early-career researchers are overburdened with publication pressure to maintain their academic affiliation, the consortium is coordinated by late-early to mid-career researchers.
-
-- future proofing
-
-## The future organization
-
-It is our intention to rally the community, and over the next decade, establish a formal, intergovernmental organization
+As senior academics are universally overcommitted and early-career researchers are overburdened with publication pressure to maintain their academic affiliation, the onset phase of the Alliance is coordinated (for now) by late-early to mid-career researchers. We have been involved with data-related research through our entire careers and are aware of many issues that hinder the development of our digital collaboration. We also have experience in the coordination of large collaborations and would like to lay down the foundations for establishing a global-scale organization that takes responsibility for our joint interests and for future proofing the achievements of the community and for the democratization of our shared intellectual heritage.
